@@ -1,7 +1,7 @@
 <template>
     <div id="app">
       <div class="container">
-        btn
+
       </div>
     </div>
 </template>
